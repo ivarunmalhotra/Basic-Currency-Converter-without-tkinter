@@ -1,0 +1,79 @@
+---------------------------------------------------------------
+
+	     CURRENCY CONVERTER
+	     ********* *********
+
+1. Convert Currency
+2. Find Currency Symbol
+3. Find Currency Name
+
+---------------------------------------------------------------
+
+Enter your choice: 1
+
+---------------------------------------------------------------
+
+	CURRENCY CONVERTER MENU
+	********* ********* *****
+
+Enter currency name which you want to convert: usd
+Enter currency name you want to convert into: inr
+Enter amount you want to convert: 1
+
+ 1.0 USD = 72.5942016877 INR
+
+---------------------------------------------------------------
+
+Do you want more operations(y/n): y
+
+---------------------------------------------------------------
+
+	     CURRENCY CONVERTER
+	     ********* *********
+
+1. Convert Currency
+2. Find Currency Symbol
+3. Find Currency Name
+
+---------------------------------------------------------------
+
+Enter your choice: 2
+
+---------------------------------------------------------------
+
+	CURRENCY SYMBOL MENU
+	********* ****** *****
+
+Enter Currency: inr
+INR = ₹
+
+---------------------------------------------------------------
+
+Do you want more operations(y/n): y
+
+---------------------------------------------------------------
+
+	     CURRENCY CONVERTER
+	     ********* *********
+
+1. Convert Currency
+2. Find Currency Symbol
+3. Find Currency Name
+
+---------------------------------------------------------------
+
+Enter your choice: 3
+
+---------------------------------------------------------------
+
+	CURRENCY NAME MENU
+	********* **** *****
+
+Enter Currency: inr
+INR = Indian rupee
+
+---------------------------------------------------------------
+
+Do you want more operations(y/n): n
+
+THANK YOU.............
