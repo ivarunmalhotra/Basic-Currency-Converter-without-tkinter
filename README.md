@@ -1,5 +1,5 @@
 ***
-# Basic Currency Converter code without tkinter
+# Basic Currency Converter code (without using tkinter)
 ***
 ##### Basic Instruction:
 
