@@ -1,7 +1,7 @@
 ***
 # Basic Currency Converter code (without using tkinter)
 ***
-##### Basic Instruction:
+#### Basic Instruction:
 
     - Install the forex-python package before you run the code.
     - To install it open command prompt and type command: pip install forex-python
@@ -10,5 +10,5 @@
 
 
 ***
-##### Thank You
+#### Thank You
 ***
